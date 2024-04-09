@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RBOI/Lp39UEJpjgPZCrEK9hnFaZa9lbpLR9hrQEMgCXx8rCSm5uroVkRN+2EPXFS1fOmlKvWWZZa0cOskRRPIg==",
+  "dgSpecHash": "53ghWSm3AJN8DlPhMoyhyhSDSTigtp8QVYyTLwdW7TOoNJurHIq1b7e1bzZ0q3TFGe0Mc5IzQVZFjPKi7g8Dbw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
+  "projectFilePath": "D:\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8.Tests\\ChallengesWithTestsMark8.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
@@ -105,5 +105,12 @@
     "C:\\Users\\david\\.nuget\\packages\\xunit.extensibility.execution\\2.4.0\\xunit.extensibility.execution.2.4.0.nupkg.sha512",
     "C:\\Users\\david\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.0\\xunit.runner.visualstudio.2.4.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: There is not enough space on the disk.\r\n"
+    }
+  ]
 }
